@@ -25,19 +25,20 @@ var pic = '';
 
 if (products == 'iphone') {
     messege = 'click on the first item(iphon) in the top side of the page ';
-    pic = '<img scr="iphone-12-black-select-2020.png" /img>';
+    pic = '<img src="iphone-12-black-select-2020.png" />';
 }
 else if (products == 'mac') {
     messege = 'click on the second item(mac) in the top side of the page';
-    pic = '<img scr="ytKr6L3ZTP4Pf2acEpzpMM.jpeg" /img>';
+    pic = '<img src="ytKr6L3ZTP4Pf2acEpzpMM.jpeg" />';
 }
 else if (products == 'ipad') {
     messege = 'click on the third item(ipad) in the top side of the page';
- pic = '<img scr="ipad.jpg" img/>';}
+ pic = '<img src="ipad.jpg" />';
+}
 
  else if (products == 'watches') {
     messege = 'click on the forth item(watches) in the top side of the page';
-    pic = '<img scr="apple watch.jpg" img/>';
+    pic = '<img src="apple watch.jpg" />';
 }
 else {
     messege = 'the selected product in not available in apple store';
