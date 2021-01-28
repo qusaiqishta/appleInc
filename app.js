@@ -12,6 +12,7 @@ else{
     messege1='you have to raise your budget in order to can buy from apple store';
 
 }
+alert(messege1)
 
 
 var messege='';
