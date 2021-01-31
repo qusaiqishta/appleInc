@@ -1,0 +1,53 @@
+header{
+    background-color:rgb(48, 180, 114);
+}
+
+header h1{
+    text-align: center;
+    margin: 20px 0px 10px 10px;
+}
+
+header nav ul{
+    list-style: none;
+}
+header nav ul li{
+display: inline-block;
+margin-left: 200px;
+padding: 20px;
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 1000px;
+
+}
+ main {
+    text-align: center;
+    color: lawngreen;
+    
+}
+main ul li{
+    margin-bottom: 50px;
+    padding: 50px ;
+}
+
+footer nav ul {
+    list-style: none;
+}
+footer nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+footer nav ul li{
+    display: inline-block;
+    margin-left: 350px;
+    margin-top: 40px;
+}
